@@ -3,7 +3,7 @@ Basic learning route 4 NETSEC.
 >根据个人情况学习，已经会了的部分请跳过
 
 **1. Linux安装与初步实践**
-   - Linux系统镜像下载 [中科大镜像站](http://mirrors.ustc.edu.cn/), 推荐系统版本使用Ubuntu 18.04.1
+   - Linux系统镜像下载 [中科大镜像站](http://mirrors.ustc.edu.cn/), 推荐系统版本使用Ubuntu 16.04
    - 双系统/虚拟机 看博客
    - [CSDN-正常安装方法](http://mirrors.ustc.edu.cn/)
    - [CSDN-vm虚拟机下ubuntu安装](http://mirrors.ustc.edu.cn/)
