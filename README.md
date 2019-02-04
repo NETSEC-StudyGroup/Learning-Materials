@@ -5,8 +5,8 @@ Basic learning route 4 NETSEC.
 **1. Linux安装与初步实践**
    - Linux系统镜像下载 [中科大镜像站](http://mirrors.ustc.edu.cn/), 推荐系统版本使用Ubuntu 16.04
    - 双系统/虚拟机 看博客
-   - [CSDN-正常安装方法](http://mirrors.ustc.edu.cn/)
-   - [CSDN-vm虚拟机下ubuntu安装](http://mirrors.ustc.edu.cn/)
+   - [CSDN-正常安装方法](https://blog.csdn.net/lnfxbianxiu/article/details/80394284)
+   - [CSDN-vm虚拟机下ubuntu安装](https://blog.csdn.net/stpeace/article/details/78598333)
 
 **2. Linux terminal 教程**
    - [Linux教程-CentOS为例](http://www.runoob.com/linux/linux-system-contents.html), 现阶段略过左侧目录中Shell标签下的内容
